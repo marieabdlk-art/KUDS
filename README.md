@@ -289,4 +289,4 @@ KUDS is available for:
 - structured concept generation and evaluation
 - experimental agent-memory design
 
-For research or commercial collaboration, contact: `your_email@example.com`
+For research or commercial collaboration, contact: marie.abdlk@gmail.com
