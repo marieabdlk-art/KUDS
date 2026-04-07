@@ -4,8 +4,8 @@ title: "KUDS: Controlled Divergence and Selection for LLM Idea Generation"
 version: "v0.1"
 type: software
 authors:
-  - name: "Mariam"
-repository-code: "https://github.com/yourname/kuds"
+  - name: "A.Abdulkarimova"
+repository-code: "https://github.com/marieabdlk-art/kuds"
 license: "MIT"
 abstract: >
   KUDS is a research framework for novelty-oriented idea generation with LLMs.
