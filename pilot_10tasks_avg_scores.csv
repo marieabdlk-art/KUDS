@@ -1,0 +1,4 @@
+mode,novelty,mechanism_distinctness,coherence,testability,interestingness,banality_resistance
+baseline,2.0,2.0,4.0,4.1,2.0,1.6
+divergence_only,4.0,4.0,3.0,3.1,4.0,4.0
+full_pipeline,4.2,4.2,3.8,3.6,4.2,4.2

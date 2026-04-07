@@ -1,0 +1,51 @@
+{
+  "pilot_name": "kuds_tuned_internal_pipeline_10tasks",
+  "task_count": 10,
+  "conditions": [
+    "baseline",
+    "divergence_only",
+    "full_pipeline"
+  ],
+  "metrics": [
+    "novelty",
+    "mechanism_distinctness",
+    "coherence",
+    "testability",
+    "interestingness",
+    "banality_resistance"
+  ],
+  "average_scores": {
+    "baseline": {
+      "novelty": 2.0,
+      "mechanism_distinctness": 2.0,
+      "coherence": 4.0,
+      "testability": 4.1,
+      "interestingness": 2.0,
+      "banality_resistance": 1.6
+    },
+    "divergence_only": {
+      "novelty": 4.0,
+      "mechanism_distinctness": 4.0,
+      "coherence": 3.0,
+      "testability": 3.1,
+      "interestingness": 4.0,
+      "banality_resistance": 4.0
+    },
+    "full_pipeline": {
+      "novelty": 4.2,
+      "mechanism_distinctness": 4.2,
+      "coherence": 3.8,
+      "testability": 3.6,
+      "interestingness": 4.2,
+      "banality_resistance": 4.2
+    }
+  },
+  "winner_counts": {
+    "divergence_only": 4,
+    "full_pipeline": 6
+  },
+  "notes": [
+    "These numbers are from the current tuned internal full_pipeline pilot on 10 ideation tasks.",
+    "The current executable pilot does not yet include the external selector mode described as future work in project notes."
+  ]
+}

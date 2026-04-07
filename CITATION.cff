@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use KUDS in research, please cite this repository and report the exact notebook / pipeline version."
+title: "KUDS: Controlled Divergence and Selection for LLM Idea Generation"
+version: "v0.1"
+type: software
+authors:
+  - name: "Mariam"
+repository-code: "https://github.com/yourname/kuds"
+license: "MIT"
+abstract: >
+  KUDS is a research framework for novelty-oriented idea generation with LLMs.
+  It treats ideation as a search-and-selection process rather than one-shot prompting.
+keywords:
+  - llm
+  - idea-generation
+  - novelty-search
+  - prompt-engineering
+  - evaluation
+  - research-framework
+date-released: 2026-04-07
